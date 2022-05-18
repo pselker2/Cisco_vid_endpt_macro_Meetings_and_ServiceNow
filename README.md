@@ -81,7 +81,7 @@ Below are instructions on how to enable an environment to execute this demo
                 - Step 3:  find the GithubRepo credential
                     - Switch to Studio browser tab
                     - In the Credential box:  find GithubRepo
-                    - In the Branch box:  branch1
+                    - In the Branch box:  master
                     - Click green "Import" button
                     - Click "Select Application" button
                     - Scroll down and select IOS-XE Alert
