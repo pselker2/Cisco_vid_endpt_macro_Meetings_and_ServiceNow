@@ -101,7 +101,7 @@ Below are instructions on how to enable an environment to execute this demo
 
 ### **Create Webex Bot for ServiceNow**
 
-1. Log in on [developer-usgov.webex.com](https://https://developer-usgov.webex.com) with a FedRAMP Webex account
+1. Log in on [developer-usgov.webex.com](https://developer-usgov.webex.com) with a FedRAMP Webex account
 2. Click on the "Build Apps" button
 3. Click on the "Create a New App" button
 4. Click on "Create a Bot" button
